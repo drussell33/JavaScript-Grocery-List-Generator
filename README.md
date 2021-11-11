@@ -1,0 +1,1 @@
+A simple grocery list generator that allows the selection of the store and generation of a list with items bought from said store.
